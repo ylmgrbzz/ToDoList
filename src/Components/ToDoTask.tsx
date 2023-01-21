@@ -18,7 +18,7 @@ const ToDoTask = ({ task, completeTask }: Props) => {
           completeTask(task.taskName);
         }}
       >
-        Xx
+        X
       </button>
     </div>
   );
